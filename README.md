@@ -6,13 +6,13 @@ Les clients RPC se trouvent dans la librairie de classes "RPC".
 Execution depuis le PowerShell : 
 
 - cd UserManagement 
-	dotnet run
+	puis dotnet run
 
 - cd StockManagement
-	dotnet run
+	puis dotnet run
 
 - cd MyCommerceApp
-	dotnet run
+	puis dotnet run
 
 	
 Nous retrouvons dans l'application principale MyCommerceApp l'ensemble des étapes suivantes : 
