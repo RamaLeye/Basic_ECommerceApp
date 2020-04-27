@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "pNzUfyAp2dw9ctVd/ahcXTvTJgxDxHfR38AphK9hi/ngwzbctr1gyLlW1GoATeaAFGR41tzz+Jof7kug41tEFA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ramatoulaye Leye\\Desktop\\UQAC\\UQAC_Session2\\Patrons_modeles\\TP5_services\\MyCommerceApp\\BillSDK\\BillSDK.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ramatoulaye Leye\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

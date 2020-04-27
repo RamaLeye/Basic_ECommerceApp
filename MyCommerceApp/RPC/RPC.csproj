@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="RabbitMQ.Client" Version="6.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\BytesOperations\BytesOperations.csproj" />
+    <ProjectReference Include="..\StockSDK\StockSDK.csproj" />
+    <ProjectReference Include="..\UserSDK\UserSDK.csproj" />
+  </ItemGroup>
+
+</Project>

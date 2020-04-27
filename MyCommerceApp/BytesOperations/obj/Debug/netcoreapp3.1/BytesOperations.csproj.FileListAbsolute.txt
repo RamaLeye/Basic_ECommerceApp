@@ -1,0 +1,9 @@
+C:\Users\Ramatoulaye Leye\Desktop\UQAC\UQAC_Session2\Patrons_modeles\TP5_services\MyCommerceApp\BytesOperations\bin\Debug\netcoreapp3.1\BytesOperations.deps.json
+C:\Users\Ramatoulaye Leye\Desktop\UQAC\UQAC_Session2\Patrons_modeles\TP5_services\MyCommerceApp\BytesOperations\bin\Debug\netcoreapp3.1\BytesOperations.dll
+C:\Users\Ramatoulaye Leye\Desktop\UQAC\UQAC_Session2\Patrons_modeles\TP5_services\MyCommerceApp\BytesOperations\bin\Debug\netcoreapp3.1\BytesOperations.pdb
+C:\Users\Ramatoulaye Leye\Desktop\UQAC\UQAC_Session2\Patrons_modeles\TP5_services\MyCommerceApp\BytesOperations\obj\Debug\netcoreapp3.1\BytesOperations.csprojAssemblyReference.cache
+C:\Users\Ramatoulaye Leye\Desktop\UQAC\UQAC_Session2\Patrons_modeles\TP5_services\MyCommerceApp\BytesOperations\obj\Debug\netcoreapp3.1\BytesOperations.csproj.CoreCompileInputs.cache
+C:\Users\Ramatoulaye Leye\Desktop\UQAC\UQAC_Session2\Patrons_modeles\TP5_services\MyCommerceApp\BytesOperations\obj\Debug\netcoreapp3.1\BytesOperations.AssemblyInfoInputs.cache
+C:\Users\Ramatoulaye Leye\Desktop\UQAC\UQAC_Session2\Patrons_modeles\TP5_services\MyCommerceApp\BytesOperations\obj\Debug\netcoreapp3.1\BytesOperations.AssemblyInfo.cs
+C:\Users\Ramatoulaye Leye\Desktop\UQAC\UQAC_Session2\Patrons_modeles\TP5_services\MyCommerceApp\BytesOperations\obj\Debug\netcoreapp3.1\BytesOperations.dll
+C:\Users\Ramatoulaye Leye\Desktop\UQAC\UQAC_Session2\Patrons_modeles\TP5_services\MyCommerceApp\BytesOperations\obj\Debug\netcoreapp3.1\BytesOperations.pdb

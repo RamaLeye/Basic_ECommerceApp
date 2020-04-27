@@ -1,0 +1,14 @@
+C:\Users\Ramatoulaye Leye\Desktop\UQAC\UQAC_Session2\Patrons_modeles\TP5_services\MyCommerceApp\BillSDK\bin\Debug\netcoreapp3.1\BillSDK.deps.json
+C:\Users\Ramatoulaye Leye\Desktop\UQAC\UQAC_Session2\Patrons_modeles\TP5_services\MyCommerceApp\BillSDK\bin\Debug\netcoreapp3.1\BillSDK.dll
+C:\Users\Ramatoulaye Leye\Desktop\UQAC\UQAC_Session2\Patrons_modeles\TP5_services\MyCommerceApp\BillSDK\bin\Debug\netcoreapp3.1\BillSDK.pdb
+C:\Users\Ramatoulaye Leye\Desktop\UQAC\UQAC_Session2\Patrons_modeles\TP5_services\MyCommerceApp\BillSDK\bin\Debug\netcoreapp3.1\StockSDK.dll
+C:\Users\Ramatoulaye Leye\Desktop\UQAC\UQAC_Session2\Patrons_modeles\TP5_services\MyCommerceApp\BillSDK\bin\Debug\netcoreapp3.1\UserSDK.dll
+C:\Users\Ramatoulaye Leye\Desktop\UQAC\UQAC_Session2\Patrons_modeles\TP5_services\MyCommerceApp\BillSDK\bin\Debug\netcoreapp3.1\StockSDK.pdb
+C:\Users\Ramatoulaye Leye\Desktop\UQAC\UQAC_Session2\Patrons_modeles\TP5_services\MyCommerceApp\BillSDK\bin\Debug\netcoreapp3.1\UserSDK.pdb
+C:\Users\Ramatoulaye Leye\Desktop\UQAC\UQAC_Session2\Patrons_modeles\TP5_services\MyCommerceApp\BillSDK\obj\Debug\netcoreapp3.1\BillSDK.csprojAssemblyReference.cache
+C:\Users\Ramatoulaye Leye\Desktop\UQAC\UQAC_Session2\Patrons_modeles\TP5_services\MyCommerceApp\BillSDK\obj\Debug\netcoreapp3.1\BillSDK.csproj.CoreCompileInputs.cache
+C:\Users\Ramatoulaye Leye\Desktop\UQAC\UQAC_Session2\Patrons_modeles\TP5_services\MyCommerceApp\BillSDK\obj\Debug\netcoreapp3.1\BillSDK.AssemblyInfoInputs.cache
+C:\Users\Ramatoulaye Leye\Desktop\UQAC\UQAC_Session2\Patrons_modeles\TP5_services\MyCommerceApp\BillSDK\obj\Debug\netcoreapp3.1\BillSDK.AssemblyInfo.cs
+C:\Users\Ramatoulaye Leye\Desktop\UQAC\UQAC_Session2\Patrons_modeles\TP5_services\MyCommerceApp\BillSDK\obj\Debug\netcoreapp3.1\BillSDK.csproj.CopyComplete
+C:\Users\Ramatoulaye Leye\Desktop\UQAC\UQAC_Session2\Patrons_modeles\TP5_services\MyCommerceApp\BillSDK\obj\Debug\netcoreapp3.1\BillSDK.dll
+C:\Users\Ramatoulaye Leye\Desktop\UQAC\UQAC_Session2\Patrons_modeles\TP5_services\MyCommerceApp\BillSDK\obj\Debug\netcoreapp3.1\BillSDK.pdb

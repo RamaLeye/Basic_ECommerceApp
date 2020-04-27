@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "9fVi87c9Gcr0+yDT81CkxviO49Q1KMWzBT9VbFr3xYkjLJw2UHcB8aLJwnTeBjHDrmdtPPjoX7VGcXEE1QHsXA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ramatoulaye Leye\\Desktop\\UQAC\\UQAC_Session2\\Patrons_modeles\\TP5_services\\MyCommerceApp\\UserManagement\\UserManagement.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ramatoulaye Leye\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\Ramatoulaye Leye\\.nuget\\packages\\rabbitmq.client\\6.0.0\\rabbitmq.client.6.0.0.nupkg.sha512",
+    "C:\\Users\\Ramatoulaye Leye\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512"
+  ],
+  "logs": []
+}

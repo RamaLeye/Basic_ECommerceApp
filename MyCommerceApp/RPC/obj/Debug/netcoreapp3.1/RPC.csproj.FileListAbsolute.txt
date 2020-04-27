@@ -1,0 +1,16 @@
+C:\Users\Ramatoulaye Leye\Desktop\UQAC\UQAC_Session2\Patrons_modeles\TP5_services\MyCommerceApp\RPC\bin\Debug\netcoreapp3.1\RPC.deps.json
+C:\Users\Ramatoulaye Leye\Desktop\UQAC\UQAC_Session2\Patrons_modeles\TP5_services\MyCommerceApp\RPC\bin\Debug\netcoreapp3.1\RPC.dll
+C:\Users\Ramatoulaye Leye\Desktop\UQAC\UQAC_Session2\Patrons_modeles\TP5_services\MyCommerceApp\RPC\obj\Debug\netcoreapp3.1\RPC.AssemblyInfoInputs.cache
+C:\Users\Ramatoulaye Leye\Desktop\UQAC\UQAC_Session2\Patrons_modeles\TP5_services\MyCommerceApp\RPC\obj\Debug\netcoreapp3.1\RPC.AssemblyInfo.cs
+C:\Users\Ramatoulaye Leye\Desktop\UQAC\UQAC_Session2\Patrons_modeles\TP5_services\MyCommerceApp\RPC\bin\Debug\netcoreapp3.1\RPC.pdb
+C:\Users\Ramatoulaye Leye\Desktop\UQAC\UQAC_Session2\Patrons_modeles\TP5_services\MyCommerceApp\RPC\bin\Debug\netcoreapp3.1\BytesOperations.dll
+C:\Users\Ramatoulaye Leye\Desktop\UQAC\UQAC_Session2\Patrons_modeles\TP5_services\MyCommerceApp\RPC\bin\Debug\netcoreapp3.1\UserSDK.dll
+C:\Users\Ramatoulaye Leye\Desktop\UQAC\UQAC_Session2\Patrons_modeles\TP5_services\MyCommerceApp\RPC\bin\Debug\netcoreapp3.1\BytesOperations.pdb
+C:\Users\Ramatoulaye Leye\Desktop\UQAC\UQAC_Session2\Patrons_modeles\TP5_services\MyCommerceApp\RPC\bin\Debug\netcoreapp3.1\UserSDK.pdb
+C:\Users\Ramatoulaye Leye\Desktop\UQAC\UQAC_Session2\Patrons_modeles\TP5_services\MyCommerceApp\RPC\obj\Debug\netcoreapp3.1\RPC.csprojAssemblyReference.cache
+C:\Users\Ramatoulaye Leye\Desktop\UQAC\UQAC_Session2\Patrons_modeles\TP5_services\MyCommerceApp\RPC\obj\Debug\netcoreapp3.1\RPC.csproj.CoreCompileInputs.cache
+C:\Users\Ramatoulaye Leye\Desktop\UQAC\UQAC_Session2\Patrons_modeles\TP5_services\MyCommerceApp\RPC\obj\Debug\netcoreapp3.1\RPC.csproj.CopyComplete
+C:\Users\Ramatoulaye Leye\Desktop\UQAC\UQAC_Session2\Patrons_modeles\TP5_services\MyCommerceApp\RPC\obj\Debug\netcoreapp3.1\RPC.dll
+C:\Users\Ramatoulaye Leye\Desktop\UQAC\UQAC_Session2\Patrons_modeles\TP5_services\MyCommerceApp\RPC\obj\Debug\netcoreapp3.1\RPC.pdb
+C:\Users\Ramatoulaye Leye\Desktop\UQAC\UQAC_Session2\Patrons_modeles\TP5_services\MyCommerceApp\RPC\bin\Debug\netcoreapp3.1\StockSDK.dll
+C:\Users\Ramatoulaye Leye\Desktop\UQAC\UQAC_Session2\Patrons_modeles\TP5_services\MyCommerceApp\RPC\bin\Debug\netcoreapp3.1\StockSDK.pdb

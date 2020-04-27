@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bCaqsUjMQ7v/GmTpxavVY5H2hkLlknswXic8/2ZHrmtd9alK3x+3u/N62drhN3c9/JvJC7f4h92QvicLVOzIgw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ramatoulaye Leye\\Desktop\\UQAC\\UQAC_Session2\\Patrons_modeles\\TP5_services\\MyCommerceApp\\UserSDK\\UserSDK.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ramatoulaye Leye\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
