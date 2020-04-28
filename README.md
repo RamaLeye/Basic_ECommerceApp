@@ -23,5 +23,5 @@ Nous retrouvons dans l'application principale MyCommerceApp l'ensemble des étap
 	Affichage panier et facture sur demande
 	Quitter avec fermeture des différents clients RPC et du programme
 	
-*A des fins de test, le username "Kanlam" peut être utilisé.
+*A des fins de test, le username "Kanlam" présent dans le fichier Json du dossier users peut être utilisé.
 	
